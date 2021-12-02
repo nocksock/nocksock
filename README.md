@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-<h3 align="center">I'm a <em>freelance senior web developer</em> with a focus on building apps and interfaces with JavaScript and more than 18 years of experience in web development.</h3>
+<h3 align="center">I'm a <em>freelance senior web developer</em> with more than 18 years of experience in web development and currently focusing on building apps and interfaces with JavaScript/React/Next.JS</h3>
 
 ---
 
@@ -61,4 +61,5 @@ or am currently learning, but haven't gone beyond the fundamentals. Certainly wo
 ## Availabilty and contact
  
 - Available from **January 2022**
+- Remote work only - but certainly okay with occasional on-site meetings.
 - Easiest way to reach me: nils@bleepbloop.studio
