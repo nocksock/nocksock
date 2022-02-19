@@ -4,15 +4,18 @@
 
 ---
 
-I love working in the lower levels of an application's stack to improve the overall efficiency and confidence to ship new features of the entire team as much as building on new features or apps from scratch. 
+I love working in the lower levels of an application's stack to improve the overall efficiency and confidence to ship new features of the entire team as much as building on new features or apps from scratch.
 
-- I love working with React
-- I love coaching and teaching
-- I love working closely with the designer and lay the foundational framework for the app (aka Design Systems)
+- I love working with React and JavaScript in general
+- I love to coach teams and individuals
+- I love working closely with designers to lay a foundational framework for an app or communicate with the dev team.
 - I love working with existing code bases to improve performance or migrate legacy parts.
 
-Keeping myself up to date and keep learning is of major importance to me as much as coaching the less experienced individuals of a team so they get a better understanding of the code they work with when needed. 
+## Availabilty and contact
 
+- Available from **May 2022**
+- Remote work only - but certainly okay with occasional on-site meetings.
+- Easiest way to reach me: nils@bleepbloop.studio
 
 ## My primary toolset
 
@@ -58,8 +61,3 @@ or am currently learning, but haven't gone beyond the fundamentals. Certainly wo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-plain.svg" width="50" />
 
-## Availabilty and contact
- 
-- Available from **January 2022**
-- Remote work only - but certainly okay with occasional on-site meetings.
-- Easiest way to reach me: nils@bleepbloop.studio
