@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-<h3 align="center">I'm a freelance senior web developer and consultant with more than 18 years of experience in web development and currently focusing on building apps and interfaces with TypeScript and Next.JS.</h3>
+<h3 align="center">I'm a freelance senior web developer and consultant/mentor with more than 18 years of experience in web development and currently focusing on building apps and interfaces with TypeScript and Next.JS.</h3>
 
 ---
 
@@ -36,14 +36,12 @@ These are the languages, tools, libraries and frameworks I've used primarily in 
 
 These I use occasionally or have used extensively in the past.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original-wordmark.svg"  width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg"  width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eleventy/eleventy-original.svg" width="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50"  />
 
           
 ## Things I've dabbled in
