@@ -15,7 +15,7 @@ Hey there! I'm a freelance web developer and consultant with over 18 years of ex
 These are the languages, tools, libraries and frameworks I've used primarily in the last few years and am more than comfortable to work with and ready to get things done.
 
 - Next.js, React, TypeScript, Tailwind CSS
-- Three.js, React Three Fiber, Jotai, Zustand
+- Storybook, TanStack Query, tRPC, Jotai, Zustand, Ramda
 - Redis, Postgres, Prisma, Supabase, Upstash
 - OpenAI, Midjourney, Replicate, Huggingface
 - Lua, Rust, Python
