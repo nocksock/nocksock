@@ -18,12 +18,12 @@ These are the languages, tools, libraries and frameworks I've used primarily in 
 - Storybook, TanStack Query, tRPC, Jotai, Zustand, Ramda
 - Redis, Postgres, Prisma, Supabase, Upstash
 - OpenAI, Midjourney, Replicate, Huggingface
-- Lua, Rust, Python
 - Nvim, Tmux, Kitty, Yabai, VSCode
 - Figma, Miro 
 - Discord, Slack, Notion
 - Linear, Jira, Trello
 - MacOS, Linux
+- Lua, Rust
 - Git, GitHub, GitLab
 
 But having a passion for programming in general and 18 years of work experience,
